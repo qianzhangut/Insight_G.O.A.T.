@@ -8,7 +8,7 @@ Find your G.O.A.T. player!
 Football is the most popular sport in the world. In 2019, clubs around the world completed 18,042 international transfers. The total value of international transfers reached USD 7.35 billion. From a managerial perspective, the most important decisions that team managers make concern player transfers, which is related to player's markte value. It plays an important role in the transfer negotiations. These values have traditionally been estimated by football experts. This product provides a data driven solution for forcasting player's market value so that team managers can make better decisions when signing new players.
 
 ## Data Collection
-Data is collected by web scraping from [transfermarkt](https://www.transfermarkt.com/) and twitter:
+Data is collected by web scraping from [transfermarkt](https://www.transfermarkt.com/) and [twitter] (https://twitter.com/):
 
 - transfermarkt: player performance data
 - twitter: tweets with hashtags of each player's name
