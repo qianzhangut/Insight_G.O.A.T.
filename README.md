@@ -11,7 +11,7 @@ Football is the most popular sport in the world. In 2019, clubs around the world
 Data is collected by web scraping from [transfermarkt](https://www.transfermarkt.com/) and [twitter](https://twitter.com/):
 
 - transfermarkt: player performance data
-- twitter: tweets with hashtags of each player's name
+- twitter: tweets of hashtags of each player's name
 
 I used Python request, BeautifulSoup, selenium, and json libraries to scrape and parse the html and json data.
 
