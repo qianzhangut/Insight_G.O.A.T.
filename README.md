@@ -17,9 +17,11 @@ I used Python request, BeautifulSoup, selenium, and json libraries to scrape and
 
 ## Exploratory analysis
 <p align="center"><img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output3.png" width="500"/></p>
-  
-  
+Forward and midfield are more expensive than defender and goalkeeper.
+
+
 <p align="center"><img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output5.png" width="500"/></p>
+European and and South American players are more popular in social media.
 
 placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder
 
