@@ -16,11 +16,10 @@ Data is collected by web scraping from [transfermarkt](https://www.transfermarkt
 I used Python request, BeautifulSoup, selenium, and json libraries to scrape and parse the html and json data.
 
 ## Exploratory analysis
-
-<figure class="half">
-    <img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output3.png" width="300"/> 
-    <img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output3.png" width="300"/>
-</figure>
+<div align="center">
+    <img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output3.png" width="400"/>
+    <img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output3.png" width="400"/>
+</div>
 
 placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder placeholder
 
