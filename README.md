@@ -1,4 +1,4 @@
-# G.O.A.T. – Greatest of All Time!
+# G.:soccer:.A.T. – Greatest of All Time!
 Find your G.O.A.T. player!
 
 ## Summary
@@ -24,14 +24,16 @@ Forward and midfield are more expensive than defender and goalkeeper.
 <p align="center"><img src="https://github.com/qianzhangut/qian_insight/blob/master/img/output5.png" width="500"/></p>
 European and and South American players are more popular in social media.
 
-### 
+### Selected Features
+- players performance data such as number of matches played, number of goals and assists, position, injury, contract length, etc.
+- 
 
 ## Models
 Random forrest regressions were used to predict players' market value. Datasets were split 80% and 20% into train and test datasets respectively. Hyperparameter tuning was performed where a random search was first initiated. With the random search results, a grid search was performed with 3-fold cross validation to obtain the optimized paramaters for the model. Evaluations of the model performances were subsequently performed on the test dataset using several metrics including mean squared error, mean absolute error and R2.
 
 
 ## Web Application
-A web app was built with Flask and hosted on AWS that allows users to predict delays based on their date and time of travel in downtown Toronto. A map with travel times in different segments of the city is displayed. Click here to access the Webapp.
+A web app was built with Flask and hosted on AWS that allows users to predict delays based on their date and time of travel in downtown Toronto. A map with travel times in different segments of the city is displayed. Click [here](www.datafuture.me) to access the Webapp.
 
 
 
