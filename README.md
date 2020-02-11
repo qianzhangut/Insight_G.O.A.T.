@@ -34,7 +34,8 @@ Random forrest regressions were used to predict players' market value. Datasets 
 
 
 ## Web Application
-A web app was built with Flask and hosted on AWS that allows users to predict delays based on their date and time of travel in downtown Toronto. A map with travel times in different segments of the city is displayed. Click [here](www.datafuture.me) to access the Webapp.
+A web app was built with Flask and hosted on AWS that allows users to predict soccer players' value based on the performance data and social media information. Player's information and a wordcloud generated from the tweet are displayed. Click [here](www.datafuture.me) to access the Webapp.
+
 
 
 
