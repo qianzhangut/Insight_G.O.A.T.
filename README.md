@@ -2,7 +2,7 @@
 Find your G.O.A.T. player!
 
 ## Summary
-[G.O.A.T.](datafuture.me) is a multifunctional website that uses player performance data and twitter information to estimate their market value for the current season (19/20) in European leagues. 
+[G.O.A.T.](http://www.datafuture.me/) is a multifunctional website that uses player performance data and twitter information to estimate their market value for the current season (19/20) in European leagues. 
 
 ## Context and Use case
 Football is the most popular sport in the world. In 2019, clubs around the world completed 18,042 international transfers. The total value of international transfers reached USD 7.35 billion. From a managerial perspective, the most important decisions that team managers make concern player transfers, which is related to player's markte value. It plays an important role in the transfer negotiations. These values have traditionally been estimated by football experts. This product provides a data driven solution for forcasting player's market value so that team managers can make better decisions when signing new players.
@@ -34,7 +34,7 @@ Random forrest regressions were used to predict players' market value. Datasets 
 
 
 ## Web Application
-A web app was built with Flask and hosted on AWS that allows users to predict soccer players' value based on the performance data and social media information. Player's information and a wordcloud generated from the tweet are displayed. Click [here](www.datafuture.me) to access the Webapp.
+A web app was built with Flask and hosted on AWS that allows users to predict soccer players' value based on the performance data and social media information. Player's information and a wordcloud generated from the tweet are displayed. Click [here](http://www.datafuture.me/) to access the Webapp.
 
 
 
