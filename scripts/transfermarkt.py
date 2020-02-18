@@ -1,3 +1,6 @@
+##########scrape player's performance data from transfermarkt, 10 leagues in total
+
+
 import requests
 from bs4 import BeautifulSoup
 import re
