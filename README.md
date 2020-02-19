@@ -30,7 +30,7 @@ European and and South American players are more popular in social media.
 - Obtained the sentiment score of each player based on the tweets. Built a TF-IDF matrix with all tweets and extracted a few columns, which represent words such 'good', 'great', 'goal', etc. 
 
 ## Models
-Random forrest regressions were used to predict players' market value. Datasets were split 80% and 20% into train and test datasets respectively. Hyperparameter tuning was performed where a random search was first initiated. With the random search results, a grid search was performed with 3-fold cross validation to obtain the optimized paramaters for the model. Evaluations of the model performances were subsequently performed on the test dataset using several metrics including mean squared error, mean absolute error and R2.
+Random forrest regressions were used to predict players' market value. Datasets were split 80% and 20% into train and test datasets respectively. Hyperparameter tuning was performed where a random search was first initiated. With the random search results, a grid search was performed with 5-fold cross validation to obtain the optimized paramaters for the model. Evaluations of the model performances were subsequently performed on the test dataset using several metrics including mean squared error, mean absolute error and R2.
 
 
 ## Web Application
