@@ -89,7 +89,7 @@ def value_predict(player_name):
 				injury , data['age'].loc[name_id], int(data['sent_score'].loc[name_id])]
 		
 	except IndexError:
-		aa = ['\u221e', '\u221e', '\u221e', '\u221e', '\u221e', '\u221e']
+		aa = ['\u221e']*6
 
 	return aa
 
